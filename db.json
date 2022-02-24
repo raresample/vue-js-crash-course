@@ -13,22 +13,16 @@
       "reminder": true
     },
     {
-      "id": "3",
-      "text": "Food shopping",
-      "day": "March 7th at 2:00pm",
-      "reminder": false
-    },
-    {
       "text": "ball on a hater",
       "day": "every chance that i get",
       "reminder": false,
       "id": "KYPw7vw"
     },
     {
-      "text": "want the biggest watch",
-      "day": "any time !(care if it hurts my wrist)",
-      "reminder": false,
-      "id": "Ky7-9VK"
+      "text": "so now it works",
+      "day": "all day",
+      "reminder": true,
+      "id": "AkrvJ7K"
     }
   ]
 }
