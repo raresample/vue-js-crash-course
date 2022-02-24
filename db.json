@@ -21,7 +21,7 @@
     {
       "text": "so now it works",
       "day": "all day",
-      "reminder": true,
+      "reminder": false,
       "id": "AkrvJ7K"
     }
   ]
