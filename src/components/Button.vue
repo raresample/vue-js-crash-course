@@ -11,7 +11,9 @@ export default {
   },
   methods: {
     onClick() {
-      this.$emit('toggle-add-task')
+      //this.$emit('toggle-add-task')
+      // changed so the button will be resuable
+      this.$emit('btn-click')
     },
   },
 }
